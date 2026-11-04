@@ -19,7 +19,6 @@ int main(){
     //Olhar Aplicativos instalados.
     //Olhar informações do sistema, Versão, Modelo.
     //Olhar informações de Hardware, GPU, CPU, RAM, Discos.
-    //Guardar um uma variavel temporaria.
 
     //esperar um intervalo aleatorio, tentar iniciar os sockets, esperar novamente um intervalo.
     //apos iniciar, tentar conexão com o servidor remoto, enviar as informações recolhidas, e manter conexão.
